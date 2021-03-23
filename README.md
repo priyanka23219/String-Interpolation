@@ -1,3 +1,4 @@
+![proj1_output](https://user-images.githubusercontent.com/75573132/112106484-bec6ec00-8bd3-11eb-98c7-2e8aceb4594b.JPG)
 # Project1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
